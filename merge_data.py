@@ -1,8 +1,6 @@
 # merge_datasets.py
 
 import json
-import nltk 
-nltk.download('punkt_tab')
 
 FILES = ["blogs_dataset.json", "pdf_dataset.json"]
 OUTPUT_FILE = "combined_dataset.json"

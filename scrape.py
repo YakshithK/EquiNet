@@ -5,6 +5,8 @@ import json
 from newspaper import Article
 from datetime import datetime
 from langdetect import detect
+import nltk 
+nltk.download('punkt_tab')
 
 # -----------------------------
 # CONFIGURATION
