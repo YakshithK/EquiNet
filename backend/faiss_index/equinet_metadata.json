@@ -1,0 +1,1618 @@
+[
+  {
+    "id": "snippet_0000",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0001",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0002",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0003",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0004",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0005",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0006",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0007",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0008",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0009",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0010",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0011",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0012",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0013",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0014",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 6,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0015",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0016",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0017",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 7,
+    "fairness_score": 18.0
+  },
+  {
+    "id": "snippet_0018",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 0,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0019",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0020",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0021",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0022",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0023",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0024",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0025",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0026",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0027",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0028",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0029",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0030",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0031",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0032",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0033",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 6,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0034",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0035",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0036",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 7,
+    "fairness_score": 18.0
+  },
+  {
+    "id": "snippet_0037",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 0,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0038",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0039",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0040",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0041",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0042",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0043",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0044",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0045",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0046",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0047",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0048",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0049",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0050",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0051",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0052",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 6,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0053",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0054",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0055",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 7,
+    "fairness_score": 18.0
+  },
+  {
+    "id": "snippet_0056",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 0,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0057",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0058",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0059",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0060",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0061",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0062",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0063",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0064",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0065",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 8,
+    "fairness_score": 7.5
+  },
+  {
+    "id": "snippet_0066",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0067",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0068",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0069",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0070",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 9,
+    "fairness_score": 11.25
+  },
+  {
+    "id": "snippet_0071",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 6,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0072",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0073",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 4,
+    "fairness_score": 4.5
+  },
+  {
+    "id": "snippet_0074",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 7,
+    "fairness_score": 18.0
+  },
+  {
+    "id": "snippet_0075",
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 0,
+    "fairness_score": 22.5
+  },
+  {
+    "id": "snippet_0076",
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0077",
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0078",
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0079",
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0080",
+    "source": "communityclimatefunding.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0081",
+    "source": "www.aqam.net",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0082",
+    "source": "www.aqam.net",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0083",
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0084",
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0085",
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0086",
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0087",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 7,
+    "fairness_score": 18.0
+  },
+  {
+    "id": "snippet_0088",
+    "source": "www.thestar.com",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 5,
+    "fairness_score": 5.294
+  },
+  {
+    "id": "snippet_0089",
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0090",
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0091",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0092",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0093",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0094",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0095",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0096",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0097",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0098",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0099",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0100",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0101",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0102",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0103",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0104",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0105",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0106",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0107",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0108",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0109",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0110",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0111",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0112",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0113",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0114",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0115",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0116",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0117",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0118",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0119",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0120",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0121",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0122",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0123",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0124",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0125",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0126",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0127",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0128",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0129",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0130",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0131",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0132",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0133",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0134",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0135",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0136",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0137",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0138",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0139",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0140",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0141",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0142",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0143",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0144",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0145",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0146",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0147",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0148",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0149",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0150",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0151",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0152",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0153",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0154",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0155",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0156",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0157",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0158",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0159",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0160",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0161",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0162",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0163",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0164",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0165",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0166",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0167",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0168",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0169",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0170",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0171",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0172",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0173",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0174",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0175",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0176",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0177",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0178",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0179",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0180",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0181",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0182",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0183",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0184",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0185",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0186",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0187",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0188",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0189",
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 2,
+    "fairness_score": 6.0
+  },
+  {
+    "id": "snippet_0190",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0191",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0192",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0193",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0194",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0195",
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 1,
+    "fairness_score": 1.0
+  },
+  {
+    "id": "snippet_0196",
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0197",
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0198",
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0199",
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0200",
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  },
+  {
+    "id": "snippet_0201",
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "cluster": 3,
+    "fairness_score": 3.333
+  }
+]

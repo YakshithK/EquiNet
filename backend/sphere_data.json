@@ -1,0 +1,3436 @@
+[
+  {
+    "id": "point_0",
+    "coords": [
+      15.467552185058594,
+      14.363959312438965,
+      4.8191680908203125
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_1",
+    "coords": [
+      10.314440727233887,
+      10.261470794677734,
+      6.52613639831543
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_2",
+    "coords": [
+      7.431325435638428,
+      5.159637928009033,
+      13.572688102722168
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_3",
+    "coords": [
+      12.631096839904785,
+      5.431936740875244,
+      5.421848773956299
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_4",
+    "coords": [
+      10.311766624450684,
+      10.263845443725586,
+      6.523287296295166
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_5",
+    "coords": [
+      13.690512657165527,
+      12.709198951721191,
+      6.254120826721191
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_6",
+    "coords": [
+      7.467610836029053,
+      5.235108852386475,
+      14.022392272949219
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_7",
+    "coords": [
+      15.346832275390625,
+      14.228103637695312,
+      4.8448896408081055
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_8",
+    "coords": [
+      15.184675216674805,
+      14.045096397399902,
+      4.840705871582031
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_9",
+    "coords": [
+      12.792909622192383,
+      5.443016052246094,
+      5.330609321594238
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_10",
+    "coords": [
+      13.550995826721191,
+      10.12170124053955,
+      4.871320724487305
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_11",
+    "coords": [
+      13.698182106018066,
+      10.019227027893066,
+      4.710294723510742
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_12",
+    "coords": [
+      12.933167457580566,
+      12.666152954101562,
+      6.075691223144531
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_13",
+    "coords": [
+      7.360278606414795,
+      5.123652458190918,
+      13.391148567199707
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_14",
+    "coords": [
+      13.726634979248047,
+      12.625368118286133,
+      5.25229549407959
+    ],
+    "cluster": 6,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_15",
+    "coords": [
+      7.505473613739014,
+      5.337275981903076,
+      13.854500770568848
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_16",
+    "coords": [
+      12.926116943359375,
+      5.2607421875,
+      5.228795528411865
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_17",
+    "coords": [
+      13.393360137939453,
+      13.010132789611816,
+      5.750291347503662
+    ],
+    "cluster": 7,
+    "fairness_score": 18.0,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_18",
+    "coords": [
+      12.36373519897461,
+      5.523709297180176,
+      5.428430557250977
+    ],
+    "cluster": 0,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_19",
+    "coords": [
+      15.49510669708252,
+      14.391880989074707,
+      4.7833170890808105
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_20",
+    "coords": [
+      10.257085800170898,
+      10.20652961730957,
+      6.5688862800598145
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_21",
+    "coords": [
+      7.431743621826172,
+      5.039427757263184,
+      13.60468578338623
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_22",
+    "coords": [
+      12.508091926574707,
+      5.3639912605285645,
+      5.298264503479004
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_23",
+    "coords": [
+      10.297008514404297,
+      10.24450397491455,
+      6.512594699859619
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_24",
+    "coords": [
+      13.610517501831055,
+      12.644994735717773,
+      6.321746349334717
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_25",
+    "coords": [
+      7.535528182983398,
+      5.1797261238098145,
+      13.991443634033203
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_26",
+    "coords": [
+      15.31796932220459,
+      14.204930305480957,
+      4.89191198348999
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_27",
+    "coords": [
+      15.078370094299316,
+      13.937905311584473,
+      4.934191703796387
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_28",
+    "coords": [
+      12.945452690124512,
+      5.309914588928223,
+      5.199683666229248
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_29",
+    "coords": [
+      13.569198608398438,
+      10.028279304504395,
+      4.849653244018555
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_30",
+    "coords": [
+      13.705916404724121,
+      9.991304397583008,
+      4.702336311340332
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_31",
+    "coords": [
+      12.984808921813965,
+      12.639850616455078,
+      6.120738506317139
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_32",
+    "coords": [
+      7.513404369354248,
+      5.286374092102051,
+      13.444042205810547
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_33",
+    "coords": [
+      13.714926719665527,
+      12.651256561279297,
+      5.237054824829102
+    ],
+    "cluster": 6,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_34",
+    "coords": [
+      7.535374641418457,
+      5.049327373504639,
+      13.845840454101562
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_35",
+    "coords": [
+      12.910335540771484,
+      5.31764554977417,
+      5.182125568389893
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_36",
+    "coords": [
+      13.264663696289062,
+      13.130324363708496,
+      5.665805816650391
+    ],
+    "cluster": 7,
+    "fairness_score": 18.0,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_37",
+    "coords": [
+      12.354434967041016,
+      5.487199306488037,
+      5.474929332733154
+    ],
+    "cluster": 0,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_38",
+    "coords": [
+      15.507001876831055,
+      14.404101371765137,
+      4.744842529296875
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_39",
+    "coords": [
+      10.409319877624512,
+      10.36221694946289,
+      6.420531272888184
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_40",
+    "coords": [
+      7.5721611976623535,
+      5.266547679901123,
+      13.488069534301758
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_41",
+    "coords": [
+      12.51129150390625,
+      5.414279460906982,
+      5.3878254890441895
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_42",
+    "coords": [
+      10.489588737487793,
+      10.443761825561523,
+      6.3382649421691895
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_43",
+    "coords": [
+      13.534356117248535,
+      12.56550121307373,
+      6.374464511871338
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_44",
+    "coords": [
+      7.562809944152832,
+      5.174198150634766,
+      14.07348918914795
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_45",
+    "coords": [
+      15.42232894897461,
+      14.307222366333008,
+      4.684593677520752
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_46",
+    "coords": [
+      15.020252227783203,
+      13.875411987304688,
+      4.96167516708374
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_47",
+    "coords": [
+      12.831792831420898,
+      5.195285320281982,
+      5.314256191253662
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_48",
+    "coords": [
+      13.74350643157959,
+      10.001791000366211,
+      4.690945625305176
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_49",
+    "coords": [
+      13.583142280578613,
+      10.092082023620605,
+      4.805171966552734
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_50",
+    "coords": [
+      13.025308609008789,
+      12.578084945678711,
+      6.1569318771362305
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_51",
+    "coords": [
+      7.361649513244629,
+      5.114822864532471,
+      13.364025115966797
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_52",
+    "coords": [
+      13.779158592224121,
+      12.615787506103516,
+      5.165203094482422
+    ],
+    "cluster": 6,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_53",
+    "coords": [
+      7.649831295013428,
+      5.144418239593506,
+      13.731932640075684
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_54",
+    "coords": [
+      13.032258033752441,
+      5.210002422332764,
+      5.129218101501465
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_55",
+    "coords": [
+      13.362846374511719,
+      13.031458854675293,
+      5.764521598815918
+    ],
+    "cluster": 7,
+    "fairness_score": 18.0,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_56",
+    "coords": [
+      12.344236373901367,
+      5.5199432373046875,
+      5.46859884262085
+    ],
+    "cluster": 0,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_57",
+    "coords": [
+      15.381389617919922,
+      14.277233123779297,
+      4.914547443389893
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_58",
+    "coords": [
+      10.240378379821777,
+      10.191475868225098,
+      6.5908989906311035
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_59",
+    "coords": [
+      7.554124355316162,
+      5.291215419769287,
+      13.527240753173828
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_60",
+    "coords": [
+      12.465225219726562,
+      5.547137260437012,
+      5.336019992828369
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_61",
+    "coords": [
+      10.360183715820312,
+      10.330995559692383,
+      6.410297870635986
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_62",
+    "coords": [
+      13.606514930725098,
+      12.64498519897461,
+      6.312427997589111
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_63",
+    "coords": [
+      7.452922344207764,
+      5.128828525543213,
+      14.09072494506836
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_64",
+    "coords": [
+      15.219671249389648,
+      14.10473346710205,
+      4.782980442047119
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_65",
+    "coords": [
+      15.055689811706543,
+      13.911465644836426,
+      4.889627456665039
+    ],
+    "cluster": 8,
+    "fairness_score": 7.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_66",
+    "coords": [
+      12.738536834716797,
+      5.283957481384277,
+      5.233222961425781
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_67",
+    "coords": [
+      13.583867073059082,
+      10.224663734436035,
+      4.860006809234619
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_68",
+    "coords": [
+      13.733705520629883,
+      9.9166841506958,
+      4.660354137420654
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_69",
+    "coords": [
+      13.043840408325195,
+      12.578481674194336,
+      6.181954860687256
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_70",
+    "coords": [
+      7.4176435470581055,
+      5.211540699005127,
+      13.359831809997559
+    ],
+    "cluster": 9,
+    "fairness_score": 11.25,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_71",
+    "coords": [
+      13.802911758422852,
+      12.567442893981934,
+      5.204901218414307
+    ],
+    "cluster": 6,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_72",
+    "coords": [
+      7.380449295043945,
+      5.223005771636963,
+      13.78585433959961
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_73",
+    "coords": [
+      12.96226692199707,
+      5.301568508148193,
+      5.2018914222717285
+    ],
+    "cluster": 4,
+    "fairness_score": 4.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_74",
+    "coords": [
+      13.37960147857666,
+      13.061187744140625,
+      5.735755920410156
+    ],
+    "cluster": 7,
+    "fairness_score": 18.0,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_75",
+    "coords": [
+      12.265191078186035,
+      5.610927581787109,
+      5.539802074432373
+    ],
+    "cluster": 0,
+    "fairness_score": 22.5,
+    "source": "globalvoices.org",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_76",
+    "coords": [
+      13.276887893676758,
+      11.967236518859863,
+      5.709827423095703
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_77",
+    "coords": [
+      13.24050235748291,
+      11.997820854187012,
+      5.771256446838379
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_78",
+    "coords": [
+      13.395088195800781,
+      12.218608856201172,
+      5.683130741119385
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_79",
+    "coords": [
+      13.338356971740723,
+      11.88698673248291,
+      5.863246440887451
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "www2.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_80",
+    "coords": [
+      13.216896057128906,
+      11.905439376831055,
+      5.795576095581055
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "communityclimatefunding.gov.bc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_81",
+    "coords": [
+      13.823515892028809,
+      11.69158935546875,
+      5.238622188568115
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "www.aqam.net",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_82",
+    "coords": [
+      13.849457740783691,
+      11.52114200592041,
+      5.046901702880859
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "www.aqam.net",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_83",
+    "coords": [
+      13.821063041687012,
+      11.63737678527832,
+      5.756236553192139
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_84",
+    "coords": [
+      13.37528133392334,
+      10.997665405273438,
+      5.604794025421143
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_85",
+    "coords": [
+      13.415281295776367,
+      11.352123260498047,
+      5.647677421569824
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_86",
+    "coords": [
+      13.844871520996094,
+      11.828339576721191,
+      5.705085277557373
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_87",
+    "coords": [
+      13.758177757263184,
+      11.717510223388672,
+      5.715339660644531
+    ],
+    "cluster": 7,
+    "fairness_score": 18.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_88",
+    "coords": [
+      13.82758903503418,
+      12.419777870178223,
+      5.441096782684326
+    ],
+    "cluster": 5,
+    "fairness_score": 5.294,
+    "source": "www.thestar.com",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_89",
+    "coords": [
+      13.37906551361084,
+      11.157198905944824,
+      5.680975914001465
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_90",
+    "coords": [
+      13.387591361999512,
+      11.337749481201172,
+      5.684907913208008
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "ecotrust.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_91",
+    "coords": [
+      8.219630241394043,
+      -4.204280853271484,
+      7.390594005584717
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_92",
+    "coords": [
+      3.427206516265869,
+      20.723825454711914,
+      8.508617401123047
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_93",
+    "coords": [
+      3.192614793777466,
+      20.79422950744629,
+      8.635642051696777
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_94",
+    "coords": [
+      3.307577133178711,
+      20.76883888244629,
+      8.554963111877441
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_95",
+    "coords": [
+      3.399855375289917,
+      20.762069702148438,
+      8.688671112060547
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_96",
+    "coords": [
+      3.2386813163757324,
+      20.598234176635742,
+      8.634084701538086
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_97",
+    "coords": [
+      3.219036102294922,
+      20.600452423095703,
+      8.371594429016113
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_98",
+    "coords": [
+      8.015711784362793,
+      -4.164727687835693,
+      7.569239616394043
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_99",
+    "coords": [
+      3.1669435501098633,
+      20.88221549987793,
+      8.53974437713623
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_100",
+    "coords": [
+      3.4670166969299316,
+      20.795751571655273,
+      8.684477806091309
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_101",
+    "coords": [
+      3.463106155395508,
+      20.787321090698242,
+      8.511661529541016
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_102",
+    "coords": [
+      3.453463554382324,
+      20.70353889465332,
+      8.638835906982422
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_103",
+    "coords": [
+      3.122880697250366,
+      20.501935958862305,
+      8.594650268554688
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_104",
+    "coords": [
+      3.288517475128174,
+      20.57364845275879,
+      8.61107063293457
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_105",
+    "coords": [
+      8.168780326843262,
+      -4.075645923614502,
+      7.473066806793213
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_106",
+    "coords": [
+      3.2565813064575195,
+      20.612422943115234,
+      8.436515808105469
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_107",
+    "coords": [
+      3.3245503902435303,
+      20.585968017578125,
+      8.734759330749512
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_108",
+    "coords": [
+      3.143798828125,
+      20.81345558166504,
+      8.40103816986084
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_109",
+    "coords": [
+      -2.3269741535186768,
+      -3.4099338054656982,
+      3.539081573486328
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_110",
+    "coords": [
+      -2.32234263420105,
+      -3.084941864013672,
+      3.3773138523101807
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_111",
+    "coords": [
+      3.5037155151367188,
+      20.644792556762695,
+      8.824873924255371
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_112",
+    "coords": [
+      8.14535903930664,
+      -4.290506362915039,
+      7.447889804840088
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_113",
+    "coords": [
+      -1.8549617528915405,
+      -3.158184051513672,
+      3.54032564163208
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_114",
+    "coords": [
+      -2.2811241149902344,
+      -3.03193998336792,
+      2.866211414337158
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_115",
+    "coords": [
+      -1.9554997682571411,
+      -2.747101068496704,
+      3.089811325073242
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_116",
+    "coords": [
+      -1.9554215669631958,
+      -3.0057458877563477,
+      3.4178712368011475
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_117",
+    "coords": [
+      -1.8772194385528564,
+      -3.017609119415283,
+      3.4917633533477783
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_118",
+    "coords": [
+      -2.1784236431121826,
+      -2.9972941875457764,
+      3.6136722564697266
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_119",
+    "coords": [
+      8.089435577392578,
+      -4.395016670227051,
+      7.391991138458252
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_120",
+    "coords": [
+      -2.327057361602783,
+      -2.927699327468872,
+      3.2776124477386475
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_121",
+    "coords": [
+      -2.219761610031128,
+      -2.6181859970092773,
+      3.3662149906158447
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_122",
+    "coords": [
+      -2.173214912414551,
+      -3.109626531600952,
+      3.6690502166748047
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_123",
+    "coords": [
+      -1.8559565544128418,
+      -3.0304970741271973,
+      3.314321517944336
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_124",
+    "coords": [
+      -2.467050075531006,
+      -2.877584457397461,
+      3.738391160964966
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_125",
+    "coords": [
+      -2.0897562503814697,
+      -3.1713929176330566,
+      3.1637966632843018
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_126",
+    "coords": [
+      7.934576034545898,
+      -4.221175193786621,
+      7.319190979003906
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_127",
+    "coords": [
+      -2.3088479042053223,
+      -3.2815561294555664,
+      3.33671498298645
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_128",
+    "coords": [
+      -2.0112485885620117,
+      -2.9103574752807617,
+      3.157011032104492
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_129",
+    "coords": [
+      -1.717207670211792,
+      -3.217925548553467,
+      3.525376319885254
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_130",
+    "coords": [
+      -1.8645131587982178,
+      -2.741610050201416,
+      3.389167308807373
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_131",
+    "coords": [
+      -2.358705997467041,
+      -2.771099090576172,
+      3.3116164207458496
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_132",
+    "coords": [
+      -2.1719939708709717,
+      -2.988185405731201,
+      3.1257412433624268
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_133",
+    "coords": [
+      8.088544845581055,
+      -4.372490882873535,
+      7.466610908508301
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_134",
+    "coords": [
+      -2.2406442165374756,
+      -2.7821757793426514,
+      3.1444265842437744
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_135",
+    "coords": [
+      -2.292447805404663,
+      -2.843860149383545,
+      3.5760514736175537
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_136",
+    "coords": [
+      -2.1074821949005127,
+      -2.7326738834381104,
+      3.421552896499634
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_137",
+    "coords": [
+      -2.16015362739563,
+      -2.445596933364868,
+      3.2286605834960938
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_138",
+    "coords": [
+      -2.189074993133545,
+      -3.3403100967407227,
+      3.0420632362365723
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_139",
+    "coords": [
+      -1.8869521617889404,
+      -3.465482473373413,
+      3.6393134593963623
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_140",
+    "coords": [
+      8.121940612792969,
+      -4.111561298370361,
+      7.314945220947266
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_141",
+    "coords": [
+      -2.0971362590789795,
+      -3.6105523109436035,
+      3.365642547607422
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_142",
+    "coords": [
+      -1.9898382425308228,
+      -2.849283218383789,
+      2.785522937774658
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_143",
+    "coords": [
+      -1.7652454376220703,
+      -2.5985870361328125,
+      3.105179786682129
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_144",
+    "coords": [
+      -1.8234325647354126,
+      -3.2819485664367676,
+      2.9246809482574463
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_145",
+    "coords": [
+      -2.366236448287964,
+      -3.163923978805542,
+      3.8926687240600586
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_146",
+    "coords": [
+      -1.6086022853851318,
+      -2.7585160732269287,
+      3.3798506259918213
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_147",
+    "coords": [
+      8.135303497314453,
+      -4.396818161010742,
+      7.210963249206543
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_148",
+    "coords": [
+      -2.006434202194214,
+      -3.4588706493377686,
+      3.102825164794922
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_149",
+    "coords": [
+      -2.5105342864990234,
+      -3.3273861408233643,
+      3.831224203109741
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_150",
+    "coords": [
+      -2.3125925064086914,
+      -2.536498785018921,
+      3.8154969215393066
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_151",
+    "coords": [
+      -2.128216028213501,
+      -2.3970460891723633,
+      3.572328805923462
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_152",
+    "coords": [
+      -2.2628796100616455,
+      -3.3730368614196777,
+      3.4481050968170166
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_153",
+    "coords": [
+      -1.9983808994293213,
+      -2.905153512954712,
+      3.9347965717315674
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_154",
+    "coords": [
+      8.065006256103516,
+      -4.2577948570251465,
+      7.217608451843262
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_155",
+    "coords": [
+      -2.6234798431396484,
+      -2.8477060794830322,
+      3.0186195373535156
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_156",
+    "coords": [
+      -2.161487102508545,
+      -2.639784097671509,
+      3.9181008338928223
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_157",
+    "coords": [
+      -1.8182145357131958,
+      -2.4688196182250977,
+      3.628641366958618
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_158",
+    "coords": [
+      -1.5654882192611694,
+      -2.920928716659546,
+      3.7734062671661377
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_159",
+    "coords": [
+      -1.5684009790420532,
+      -2.4445459842681885,
+      3.3673040866851807
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_160",
+    "coords": [
+      -1.469926357269287,
+      -3.324382781982422,
+      3.6258318424224854
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_161",
+    "coords": [
+      8.182802200317383,
+      -4.187740802764893,
+      7.5399699211120605
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_162",
+    "coords": [
+      -1.4684109687805176,
+      -2.910372495651245,
+      3.4214823246002197
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_163",
+    "coords": [
+      -1.7202410697937012,
+      -2.684713840484619,
+      3.975606679916382
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_164",
+    "coords": [
+      -2.3083198070526123,
+      -3.756798267364502,
+      3.426147699356079
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_165",
+    "coords": [
+      -1.5714702606201172,
+      -3.438600778579712,
+      3.9054625034332275
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_166",
+    "coords": [
+      -1.6162984371185303,
+      -3.588709592819214,
+      3.2593472003936768
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_167",
+    "coords": [
+      -1.62663996219635,
+      -3.2053329944610596,
+      3.915806293487549
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_168",
+    "coords": [
+      8.29857063293457,
+      -4.457360744476318,
+      7.5778703689575195
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_169",
+    "coords": [
+      -1.989881992340088,
+      -3.001490831375122,
+      2.663156747817993
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_170",
+    "coords": [
+      -2.316418409347534,
+      -2.981499671936035,
+      3.9923036098480225
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_171",
+    "coords": [
+      -2.0666794776916504,
+      -3.1649227142333984,
+      4.087161064147949
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_172",
+    "coords": [
+      -2.100330352783203,
+      -3.35573148727417,
+      4.073153495788574
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_173",
+    "coords": [
+      -2.966151714324951,
+      -2.843687057495117,
+      3.576221227645874
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_174",
+    "coords": [
+      -1.4619472026824951,
+      -3.3171398639678955,
+      3.050828695297241
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_175",
+    "coords": [
+      7.99882698059082,
+      -4.166248321533203,
+      7.579034805297852
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_176",
+    "coords": [
+      -2.476309061050415,
+      -3.332247257232666,
+      3.8190174102783203
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_177",
+    "coords": [
+      -2.043408155441284,
+      -3.8390746116638184,
+      3.559951066970825
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_178",
+    "coords": [
+      -2.0084919929504395,
+      -3.6097779273986816,
+      3.9150421619415283
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_179",
+    "coords": [
+      -2.80688738822937,
+      -3.4112086296081543,
+      3.323544502258301
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_180",
+    "coords": [
+      -2.2086689472198486,
+      -3.7464983463287354,
+      2.983980178833008
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_181",
+    "coords": [
+      -2.6718435287475586,
+      -3.08752703666687,
+      2.9028661251068115
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_182",
+    "coords": [
+      7.994816780090332,
+      -4.187313079833984,
+      7.247302055358887
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_183",
+    "coords": [
+      -1.5407116413116455,
+      -3.1313531398773193,
+      3.0677170753479004
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_184",
+    "coords": [
+      -1.7100355625152588,
+      -3.476410150527954,
+      3.035466194152832
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_185",
+    "coords": [
+      -1.8544305562973022,
+      -3.3827738761901855,
+      2.7958576679229736
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_186",
+    "coords": [
+      -2.409560441970825,
+      -3.5561928749084473,
+      3.2287633419036865
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_187",
+    "coords": [
+      -1.998760461807251,
+      -3.778486728668213,
+      3.1600582599639893
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_188",
+    "coords": [
+      -1.8236150741577148,
+      -3.647783041000366,
+      3.5147650241851807
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_189",
+    "coords": [
+      8.360156059265137,
+      -4.3319220542907715,
+      7.636993885040283
+    ],
+    "cluster": 2,
+    "fairness_score": 6.0,
+    "source": "www.cbc.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_190",
+    "coords": [
+      -2.824418783187866,
+      -2.96649432182312,
+      3.386732339859009
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_191",
+    "coords": [
+      -2.3284897804260254,
+      -3.2086181640625,
+      2.7057735919952393
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_192",
+    "coords": [
+      -2.5178115367889404,
+      -2.4909868240356445,
+      3.163973808288574
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_193",
+    "coords": [
+      -1.6444751024246216,
+      -2.7594897747039795,
+      3.001903772354126
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_194",
+    "coords": [
+      -2.7468409538269043,
+      -3.0808165073394775,
+      3.7329554557800293
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_195",
+    "coords": [
+      -1.9468026161193848,
+      -2.329495668411255,
+      3.078012704849243
+    ],
+    "cluster": 1,
+    "fairness_score": 1.0,
+    "source": "climateatlas.ca",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_196",
+    "coords": [
+      13.508803367614746,
+      12.099329948425293,
+      5.601312160491943
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_197",
+    "coords": [
+      13.998766899108887,
+      12.514504432678223,
+      5.333449363708496
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_198",
+    "coords": [
+      13.304425239562988,
+      12.008206367492676,
+      5.3515400886535645
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_199",
+    "coords": [
+      13.600452423095703,
+      12.121247291564941,
+      5.5224738121032715
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_200",
+    "coords": [
+      13.438342094421387,
+      12.496874809265137,
+      5.82405948638916
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  },
+  {
+    "id": "point_201",
+    "coords": [
+      13.503093719482422,
+      12.37726879119873,
+      5.559162616729736
+    ],
+    "cluster": 3,
+    "fairness_score": 3.333,
+    "source": "PDF Report",
+    "domain": "unknown",
+    "language": "en",
+    "text": "",
+    "metadata": {
+      "timestamp": ""
+    }
+  }
+]

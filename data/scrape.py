@@ -14,7 +14,24 @@ nltk.download('punkt_tab')
 BLOG_URLS = [
     "https://globalvoices.org/",
     "https://globalvoices.org/category/climate/",
-    # Add more grassroots blog URLs here
+    "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/consulting-with-first-nations/first-nations-clean-energy-business-fund",
+    "https://www.aqam.net/operations/%CA%94aqant%E2%B1%A1a%CA%94nam-housing/",
+    "https://ecotrust.ca/latest/blog/energy-security-work-continues-in-three-first-nation-communities/",
+    "https://climateatlas.ca/agriculture-and-climate-change",
+    "https://climateatlas.ca/long-sun-shines",
+    "https://climateatlas.ca/basics-climate-risk-assessment",
+    "https://climateatlas.ca/building-climate-resilient-city",
+    "https://climateatlas.ca/canadian-cities-and-climate-change",
+    "https://climateatlas.ca/climate-atlas-v2-why-have-numbers-changed",
+    "https://climateatlas.ca/climate-change-and-health",
+    "https://climateatlas.ca/climate-change-maps-agriculture",
+    "https://climateatlas.ca/climate-change-projections",
+    "https://climateatlas.ca/climate-change-air-quality-and-public-health",
+    "https://climateatlas.ca/climate-change-basics",
+    "https://climateatlas.ca/climate-maps-cities",
+    "https://climateatlas.ca/indigenous-knowledges-and-climate-change",
+    "https://climateatlas.ca/indigenous/first-nations",
+    "https://climateatlas.ca/indigenous/inuit",
 ]
 
 OUTPUT_FILE = "blogs_dataset.json"
